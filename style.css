@@ -31,7 +31,7 @@ a{
     color: #555;
 }
 a:hover{
-    background: #563434;
+    background: #bab8b8;
 }
 .header{
     background-color: azure;
@@ -72,6 +72,14 @@ p{
 .categories{
     margin: 30px;
     display: flexbox;
+}
+.small-container img{
+    width: 80px;
+    height: 100;
+}
+img#pics{
+    height: 200px;
+    width: 200px;
 }
 .small-container{
     width: 100%;
